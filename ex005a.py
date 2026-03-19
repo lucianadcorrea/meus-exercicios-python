@@ -8,4 +8,4 @@ di=n1/n2
 pot=n1**n2
 dit=n1//n2
 rest=n1%n2
-print('soma {},\nsubstração {},\nmultuplicação {},\ndivisão {:.2f},\npotenciação {},\ndivisão inteira {},\nresto da divisão {}'.format(s,sub,mult,di, pot, dit, rest))
+print('soma {},\nsubstração {},\nmultuplicação {},\ndivisão {:.2f},\npotenciação {},\ndivisão inteira {},\nresto da divisão {}'.format(s, sub, mult, di, pot, dit, rest))
