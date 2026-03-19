@@ -1,3 +1,4 @@
+#Faça um programa que leia a profissão pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
 a=str(input('Digite uma profissão: '))
 
 print('O tipo primitivo desse valor é :', type(a))
